@@ -1,0 +1,47 @@
+body {
+    background-color: #7FC8A9;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p {
+    color: white;
+}
+.i {
+    color: #5F7A61;
+    font-size: medium;
+    border: none;
+    border-width: 0px;
+    height: 60;
+    width: 200;
+}
+
+.btn {
+    font-size: large;
+}
+
+.input-group {
+    padding: 0 30%;
+}
+
+li {
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.close {
+    color: white;
+    padding-right: 50px;
+}
+
+.bottom {
+    padding-top: 70px;
+}
